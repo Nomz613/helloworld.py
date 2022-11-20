@@ -1,0 +1,7 @@
+print('Hello World!')
+print('This is working!!')
+print('3 + 3')
+print('ask' * 3)
+print('python' * 6)
+print(2+2)
+print('ask ' + 'Naomi')
